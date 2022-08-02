@@ -2,5 +2,3 @@
 
 1. Go to project folder on terminal / cmd 
 2. type npm init -y and enter
-
-image.png
