@@ -17,6 +17,8 @@
 
 <img width="400" alt="CypressWeb1 0 — npx cypress open — npx — Cypress Helper (Renderer) ◂ node :usr:local:bin:npx cypress open — 133×40 2022-08-02 10-53-56" src="https://user-images.githubusercontent.com/54337360/182288339-ac144f3d-24ec-45b0-a801-3a7b5aca777a.png">
 
-cypress will open 
+<img width="856" alt="Cypress 2022-08-02 11-00-23" src="https://user-images.githubusercontent.com/54337360/182288396-a3c20e23-b172-470d-b795-707efb02af22.png">
 
-![Cypress 2022-08-02 10-54-50](https://user-images.githubusercontent.com/54337360/182288396-a3c20e23-b172-470d-b795-707efb02af22.png)
+6. For this example i'm using E2E, click E2E and select your browser
+
+<img width="856" alt="Cypress 2022-08-02 11-00-23" src="https://user-images.githubusercontent.com/54337360/182289197-97da6c04-7aa2-4c21-a91f-8c55e2e3a675.png">
