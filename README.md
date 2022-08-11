@@ -1,4 +1,4 @@
-## Create Web Automation With Cypress from scratch
+## Create Web Automation With Cypress 10 + Cucumber + Html Report from scratch
 
 1. Open visual studio code and create new project
 2. Open terminal (macOS ) or cmd ( windows ) and go to your project folder  `cd [your folder name]`
