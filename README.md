@@ -1,4 +1,4 @@
-### Create Web Automation With Cypress from scratch
+## Create Web Automation With Cypress from scratch
 
 1. Open visual studio code and create new project
 2. Go to project folder on terminal / cmd `cd [your folder name]`
